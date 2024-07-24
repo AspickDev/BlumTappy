@@ -10,7 +10,7 @@ BlumTappy - bu veb-ilovadagi yulduzchalarni bosish jarayonini avtomatlashtirish 
 
 ## O'rnatish
 
-1. BlumTappy bajariladigan faylni [releases page](#) yuklab oling.
+1. BlumTappy bajariladigan faylni [GitHub](#) dan yuklab oling.
 2. Faylni Windows kompyuteringizda qulay joyga saqlang.
 
 ## Foydalanish
