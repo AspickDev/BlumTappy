@@ -1,4 +1,4 @@
-# BlumTappy
+# BlumTappy v1.0
 
 BlumTappy - bu veb-ilovadagi yulduzchalarni bosish jarayonini avtomatlashtirish orqali Telegram'da Blum o'yinini o'ynashda sizga yordam berish uchun mo'ljallangan vosita. Ushbu loyiha terminal orqali boshqarilishi mumkin bo'lgan foydalanish uchun qulay .exe faylini taqdim etadi.
 
